@@ -27,7 +27,7 @@ It enables efficient handling of policy data, customer records, and core insuran
 ```id="q2w7dz"
 Insurance-project/
 │── src/
-│   ├── controller/     # API endpoints (if REST आधारित)
+│   ├── controller/     # API endpoints 
 │   ├── service/        # Business logic
 │   ├── repository/     # Database layer
 │   ├── model/          # Entity classes
